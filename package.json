@@ -2,7 +2,7 @@
   "name": "lz-fan-page",
   "version": "1.0.0",
   "description": "Led Zeppelin fan page",
-  "main": "index.js",
+  "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
